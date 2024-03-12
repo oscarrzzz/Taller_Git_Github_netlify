@@ -10,7 +10,7 @@ body{
 #container1{
     background-color: lavender;
     width: 49%;
-    height: 150px;
+    height: fit-content;
     margin: 0px auto;
     border: 1px solid black;
     text-align: center;
