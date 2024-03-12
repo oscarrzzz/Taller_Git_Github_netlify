@@ -40,4 +40,10 @@ body{
         margin-right: 85px;
         float: left;
     }
+
+.article{
+    margin-bottom: 50px;
+    border-bottom: solid lightslategray;
+
+}
 }
